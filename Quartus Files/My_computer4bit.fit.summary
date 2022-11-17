@@ -1,0 +1,10 @@
+Fitter Status : Successful - Thu Apr 01 08:38:15 2021
+Quartus II Version : 9.0 Build 132 02/25/2009 SJ Full Version
+Revision Name : My_computer4bit
+Top-level Entity Name : My_computer4bit
+Family : FLEX10K
+Device : EPF10K10TC144-3
+Timing Models : Final
+Total logic elements : 289 / 576 ( 50 % )
+Total pins : 40 / 102 ( 39 % )
+Total memory bits : 0 / 6,144 ( 0 % )
